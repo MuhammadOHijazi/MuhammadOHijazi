@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-📱Mobile Engineer <br>🤖 ITE 5th Student specializes in AI <br>😁 Entrepreneurial person <br>📎 Volunteer in multi organizations in Syria, Damascus<br>🧑🏻‍🏫 ICT Teacher in GP
+📱Mobile Engineer <br>🤖 ITE 5th Student specializes in AI <br>😁 Entrepreneurial person <br>📎 Volunteer in multi organizations in Syria, Damascus<br>🧑🏻‍🏫 ICT Teacher in GPA
 
 
 ## 🌐 Socials:
